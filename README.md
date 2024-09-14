@@ -1,5 +1,6 @@
 ![github](http://file.aioser.com/github.png)
 
+![github stats](https://github-readme-stats.vercel.app/api?username=wanyakun&count_private=true&show_icons=true&theme=dracula)
 <!--
 **wanyakun/wanyakun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
